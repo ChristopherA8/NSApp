@@ -1,0 +1,7 @@
+CompileFlags:
+  Add:
+    - -x
+    - objective-c++
+    - -std=c++17
+    - -framework
+    - Cocoa
